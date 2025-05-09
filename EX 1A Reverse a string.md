@@ -19,8 +19,8 @@ To write a program to create a recursive function to reverse a string.
 ```
 /*
 Program to implement Reverse a String
-Developed by: LEANN JOBY MATHEW
-Register Number:  212222230074
+Developed by: SRIRAM S S
+Register Number:  212222230150
 */
 
 
